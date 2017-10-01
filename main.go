@@ -16,4 +16,5 @@ A:
 		fmt.Println(C, "是素数")
 	}
 	fmt.Println("hello zh")
+	fmt.Println("at last v")
 }
